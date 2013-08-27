@@ -2,7 +2,7 @@
 
 #lcdMenu - v0.1
 
-Portable text based lcd menu library written in C. You can see the library in action in this [video](./m328p_example.mov).
+Portable text based lcd menu library written in C. You can see the library in action in this [video](./m328p_example.m4v).
 
 ##Porting
 
