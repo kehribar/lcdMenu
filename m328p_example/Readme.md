@@ -24,3 +24,15 @@ This example is written to demonstrate the lcdMenu library. PCD8544 based GLCD i
 	DC  -> PB1 -> Digital 9
 	DIN -> PB2 -> Digital 10
 	CLK -> PB3 -> Digital 11
+
+##Memory Usage
+
+	AVR Memory Usage
+	----------------
+	Device: atmega328p
+	
+	Program:    2678 bytes (8.2% Full)
+	(.text + .data + .bootloader)
+	
+	Data:        225 bytes (11.0% Full)
+	(.data + .bss + .noinit)
